@@ -4,11 +4,11 @@
 
 - AWS에서는 CDN서버와 같은 기능을 하는 
 
-  [CloudFront]: https://aws.amazon.com/ko/cloudfront/
+  [CloudFront]: https://aws.amazon.com/ko/cloudfront/	"CloudFront"
 
   와 DNS와 같은 기능을 하는 
 
-  [Route]: https://aws.amazon.com/ko/route53/
+  [Route 53]: https://aws.amazon.com/ko/route53/	"Route 53"
 
   이 에지 로케이션을 사용하고 있다.
 
