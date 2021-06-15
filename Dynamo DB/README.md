@@ -1,4 +1,4 @@
-#Dynamo DB
+# Dynamo DB
 - NoSQL DB
 - 아마존에서 개발한 NoSQL 데이터베이스
 - 리전별로 생성 가능
